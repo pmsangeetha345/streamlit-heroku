@@ -1,2 +1,2 @@
 # streamlit-heroku
-Streamlit+Heroku for Credit Card Decline Prediction
+Streamlit+Heroku for checking if the given number is odd or even
